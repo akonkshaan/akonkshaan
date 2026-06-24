@@ -1,8 +1,5 @@
 ## Hi, I'm A M Arefin Khaled 👋
 
-
-# Hi, I'm A M Arefin Khaled 👋
-
 Ph.D. Student in Information Science at the University of Arkansas at Little Rock (UALR).
 
 ## About Me
